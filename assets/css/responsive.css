@@ -1,0 +1,190 @@
+/*DEFAULD LAYOUT */ 
+
+/*TABLETS LAYOUT 768PX */ 
+@media only screen and (min-width: 768) and (max-width: 991px){
+.slider_area {transition: background 0.5s ease-in-out .5s , padding 0.5s ease-in-out; margin-top:53px;}    
+.ethonal_design_logo span {left: 10%;}
+.ethonal_design_logo h3 { margin-left: 95px;}
+.ethonal_design_logo > p {padding-top: 10px;}
+.blok_area {padding: 50px 0;}  
+.single_team p {
+  bottom: -7px;
+}
+.team_overlay {
+  bottom: 25px;
+}
+
+  
+}
+/*MOBILE LAYOUT 320PX */ 
+@media only screen and (min-width: 320px) and (max-width: 767px){
+.slider_area {transition: background 0.5s ease-in-out .5s , padding 0.5s ease-in-out; margin-top:53px;}  
+.ethonal_design_logo span {left: 102px;}
+.ethonal_design_logo > p {font-size: 16px; padding-bottom: 10px; padding-top: 0;}
+.smart_item h2 { color: #333; font-size: 20px;}
+.focus_item {margin: 50px 0; text-align: center;}
+.smart_item p { color: #999999; font-size: 15px;}
+.smart_item span.e_xplore {left: 40%;}
+.brand_content > p { margin-top: -7px;}
+.about_us_area {padding: 0px 0;}
+.selact_line{padding:0px;}
+.single_process {padding-left: 30px;}
+.process_contents > p { padding: 0 4px 0 74px;}
+.process_icon i { font-size: 30px; height: 70px; margin-right: 6px; padding: 16px 12px 13px; width: 70px;}
+.vertical_line {left: 62px;}
+.left_brand h3 {font-size: 16px;}
+.single_project {padding: 20px; width: 100%;}
+.single_project{border-left:1px solid #ddd;}
+.features_area {margin-top:15px;}
+.team_overlay { bottom: 215px; width:98%;}
+.single_team p {bottom: 188px; width:96%;}
+.profile_link {top: 35%;}
+.owl-carousel .owl-wrapper-outer {height: 554px;}
+.single_team img {margin-left: 59px; width: 51%;}
+.owl-pagination { margin-bottom: -23px; margin-top: -162px;}
+.profile_link { width: 95%;}
+.tab_contents_area { padding: 40px 0;}
+.products_list > li {margin-bottom: 0; padding: 1px 25px 5px;}
+.products_list h4 {font-size: 12px; margin-bottom: 5px;}
+.products_list > li i { font-size: 34px; height: 46px; margin-right: 2px; padding-top:14px;}
+.tab-content { margin-left:0px; padding:5px;}
+#home > h2 { color: #333333; font-size: 20px;}
+.protfolio > div {text-align: center;}
+.priceing_table { margin-left: 10px; width: 300px;}
+.priceing_table.over_flow { margin-bottom: 10px; margin-top: 15px;}
+.img-thumbnail { max-width: 110px;}
+.media-heading { font-size: 12px;}
+.media-body > p {display:none;}
+.button_more_post { font-size: 14px;}
+.post_bottom_area { padding-top: 6px;}
+.single_information i { font-size: 50px; height: 75px; padding: 13px; width: 74px;}
+.single_information { margin: 25px 0; }
+.form-group {margin: 0 23px; width: 86%;}
+#contact .btn {font-size: 11px; margin-bottom: 15px; padding: 8px 43px;}
+footer p { font-size: 16px;}
+.footer_right > a {font-size: 20px; margin:0;}
+footer {padding: 10px 0;}
+.footer_right {margin-top: 0px;}
+.carousel-caption {
+  top: 11px;
+}
+.carousel-caption p {
+  font-size: 12px;
+}
+
+.single_project {
+  border-bottom: 1px solid #ccc;
+}    
+.ethonal_design_logo span {
+  left: 85px;
+}
+.products_list > li {
+  margin-bottom: 5px;
+}
+
+
+
+}
+
+/*WIDE MOBILE LAYOUT 480PX */ 
+@media only screen and (min-width: 480px) and (max-width: 767px){
+.slider_area {margin-top:52px;}  
+.ethonal_design_logo span {left: 104px;}
+.ethonal_design_logo h3 { margin-bottom: -50px;}
+.smart_item span.e_xplore {left: 43%;}
+.about_us_area {padding: 0;}
+.focus_item { margin: 50px 0;}
+.smart_item h2 { line-height: 1.5;}
+.about_social_bottom > h3 { font-size: 14px;}
+.single_project { border-left: 1px solid #ccc; border-bottom: 1px solid #ccc; width: 50%;}
+.features_area { margin-top: 18px;}
+.single_project {padding: 20px; width: 100%;}
+.single_project{border-left:1px solid #ddd;}
+.features_area {margin-top:15px;}
+.team_overlay { bottom: 180px; width:98%;}
+.single_team p {bottom: 158px; width:96%;}
+.profile_link {top: 42%;}
+.owl-carousel .owl-wrapper-outer {height: 554px;}
+.single_team img {margin-left: 59px; width: 51%;}
+.owl-pagination { margin-bottom: -23px; margin-top: -162px;}
+.profile_link { width: 95%;}
+.owl-pagination {margin-top: -134px;}
+.tab_contents_area { padding: 40px 0;}
+.products_list > li {margin-bottom: 6; padding: 1px 25px 5px;}
+.products_list h4 {font-size: 12px; margin-bottom: 5px;}
+.products_list > li i { font-size: 34px; height: 46px; margin-right: 2px; padding-top:14px;}
+.tab-content { margin-left:0px; padding:5px;}
+.protfolio > div {text-align: center;}
+.about_us_area {padding: 0px 0;}
+.selact_line{padding:0px;}
+.single_process {padding-left: 30px;}
+.process_contents > p { padding: 0 15px 0 74px;}
+.process_icon i { font-size: 30px; height: 70px; margin-right: 6px; padding: 16px 12px 13px; width: 70px;}
+.vertical_line {left: 62px;}
+.priceing_table { margin-left: 10px; width: 340px;}
+.priceing_table.over_flow { margin-bottom: 10px; margin-top: 15px;}
+.img-thumbnail { max-width: 110px;}
+.media-heading { font-size: 12px;}
+
+.button_more_post { font-size: 14px;}
+.post_bottom_area { padding-top: 6px;}
+.single_information i { font-size: 50px; height: 75px; padding: 13px; width: 74px;}
+.single_information { margin: 25px 0; }
+.form-group {margin: 0 23px; width: 86%;}
+#contact .btn {font-size: 11px; margin-bottom: 15px; padding: 8px 43px;}
+footer p { font-size: 16px;}
+.footer_right > a {font-size: 20px; margin:0;}
+footer {padding: 10px 0;}
+.footer_right {margin-top: 0px;}
+.ethonal_design_logo > p {
+  font-size: 14px;
+  margin-top: 70px;
+  padding: 0 15px;
+}
+.ethonal_design_logo span {
+  left: 161px;
+}
+.single_team p {
+  bottom: 244px;
+  font-size: 13px;
+}
+.profile_link h2 { font-size: 22px;}  
+.team_overlay {
+  bottom: 270px;
+}
+.profile_link {
+  top: 24%;
+}
+.owl-carousel .owl-wrapper-outer {
+  height: 460px;
+}
+.single_project {
+  width: 50%;
+}
+.priceing_table {
+  margin-left: 10px;
+  width: 96%;
+}
+.media-body > p {
+  display: block;
+  font-size: 11px;
+}
+
+.breadcrumb a {
+  font-size: 11px;
+}.form-group {
+  width: 433px;
+}
+.footer_right {
+  text-align: center;
+}
+.blog_post {
+  padding: 35px 0;
+}
+
+
+
+
+
+
+}
